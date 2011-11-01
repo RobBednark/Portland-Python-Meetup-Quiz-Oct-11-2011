@@ -1,0 +1,9 @@
+list.sort() modifies the list in-place (and returns None to avoid confusion). 
+Usually it's less convenient than sorted() - but if you don't need the original list,
+it's slightly more efficient.
+
+Alternatively:
+print sorted(my_list)
+
+http://docs.python.org/howto/sorting.html
+http://goo.gl/3Z1Te

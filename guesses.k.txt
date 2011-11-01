@@ -1,0 +1,11 @@
+
+    1989
+    1992
+    1988
+    comp.lang.python
+    alt.binaries
+    comp.lang.perl
+    0.1
+    0.5
+    0.92
+    .001

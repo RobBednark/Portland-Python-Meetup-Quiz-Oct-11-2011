@@ -1,0 +1,5 @@
+
+    blank line
+    error
+    None
+    [1,2,3]

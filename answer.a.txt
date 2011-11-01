@@ -1,0 +1,6 @@
+A: Guido van Rossum is the creator of Python.  
+   age: 55 (born Jan 31, 1956)
+   Guido works for Google, where he has worked since December, 2005.
+
+http://en.wikipedia.org/wiki/Guido_van_Rossum
+http://goo.gl/OrT7K

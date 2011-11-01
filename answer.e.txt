@@ -1,0 +1,9 @@
+A: classes
+
+"The joy of coding Python should be in seeing short, concise, readable classes that express 
+a lot of action in a small amount of clear code -- not in reams of trivial code that bores 
+the reader to death."
+-Guido van Rossum (Python creator), 20 Mar 2002
+
+http://quotations.amk.ca/python-quotes/10.html
+http://goo.gl/Zl4rC

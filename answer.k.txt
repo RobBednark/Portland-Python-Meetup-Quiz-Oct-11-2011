@@ -1,0 +1,12 @@
+A: Feb 20, 1991
+A: alt.sources
+A: 0.9.0
+
+Python 2.7.2 docs, faq/general
+http://en.wikipedia.org/wiki/History_of_Python 
+http://goo.gl/8qOxD
+http://svn.python.org/projects/python/trunk/Misc/HISTORY
+http://goo.gl/900Ns
+http://groups.google.com/group/alt.sources/search?q=guido+van+rossum&start=90&sa=N&scoring=d&
+http://goo.gl/C3T90
+

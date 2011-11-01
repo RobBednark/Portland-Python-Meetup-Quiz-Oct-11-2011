@@ -1,0 +1,12 @@
+A: version 2.7.2,  released June 11, 2011
+
+  (version 2.7 was released July  3, 2010)
+  (version 2.0 was released Oct  16, 2000)
+  (version 1.6 was released Sep   5, 2000)
+  (version 1.0 was released Jan    , 1994)
+
+http://en.wikipedia.org/wiki/History_of_Python#Version_release_dates
+http://goo.gl/65MuY
+http://www.python.org/download/releases/2.7.2/
+http://goo.gl/nohtW
+
