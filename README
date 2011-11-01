@@ -6,10 +6,12 @@ These are the quiz questions that I gave to the audience at:
 Each quiz question has it's own file.
 
 File types:
-    *.py (e.g., a.py) -- the file with the question; execute this file with python (e.g., "python a.py") and you will see the guesses and the answer.  The questions are ordered from a to u.
+    all.questions.txt -- all the questions in a single file (no guesses or answers)
+    all.questions.guesses.answers.txt -- all the guestions, guesses, and answers in a single file
+    *.py (e.g., a.py) -- the file with the question; execute this file with python (e.g., "python a.py") and you will see the question, guesses and the answer.  The questions are ordered from a to u.
     answer.*.txt (e.g., answer.a.txt) -- the answer (e.g., answer.a.txt is the answer to a.py)
     guesses.*.txt (e.g., guesses.a.txt) -- the guesses that came from the audience at the Portland Python Meetup
-    quiz.py -- contains the show() function, which shows the question, the quesses, and the answer
+    quiz.py -- contains the show() function, which shows the question, the quesses, and the answer for each of the [a-u].py files
     run.all.sh -- a shell script that runs each of the questions, one at a time
 
 To run an individual quiz question:
